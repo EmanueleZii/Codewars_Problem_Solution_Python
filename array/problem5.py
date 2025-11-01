@@ -25,3 +25,10 @@ def positive_sum(arr):
         if num>0:
             total +=num
     return total
+
+def main():
+    arr = [1, 2, 3, 4]
+    print(positive_sum(arr))
+
+if __name__ == '__main__':
+    main()

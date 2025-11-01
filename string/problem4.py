@@ -13,6 +13,5 @@ def no_space(x):
 def main():
     print(no_space("hello world"))
 
-
 if __name__ == '__main__':
     main()
