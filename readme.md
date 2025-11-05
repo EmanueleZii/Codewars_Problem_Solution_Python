@@ -4,22 +4,22 @@ Problemi e soluzioni
 
 ## Lista di Argomenti
 
--Algoritmi
--Array
--Data Structura
--Date Time
--Debugging 
--Functional Programming
--Fundementals
--Json
--Lists
--Logic
--Matrix
+- Algoritmi
+- Array
+- Data Structura
+- Date Time
+- Debugging 
+- Functional Programming
+- Fundementals
+- Json
+- Lists
+- Logic
+- Matrix
 - OOP
--Parsing
--Recursion
--Refactoring
--Regular Expression
--Sets
--Sorting
--Strings
+- Parsing
+- Recursion
+- Refactoring
+- Regular Expression
+- Sets
+- Sorting
+- Strings
